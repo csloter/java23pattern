@@ -2,6 +2,7 @@ package pattern.bridge.base;
 
 /**
  * 桥接模式的实体抽象类
+ * git
  * @author dell990-026
  *
  */
